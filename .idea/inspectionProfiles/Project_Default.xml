@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E302" />
+          <option value="E111" />
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="crudapp.crud.views.employee" />
+          <option value="crudapp.crudapp.urls.employee" />
+          <option value="employee" />
+          <option value="crudapp.crudapp.urls.views" />
+          <option value="crudapp.crudapp.urls.django" />
+          <option value="crudapp.forms" />
+          <option value="crudapp.models" />
+          <option value="practical1.*" />
+          <option value="app1" />
+          <option value="todolist.mylist.forms.Task" />
+          <option value="todolist.mylist.forms.mylist" />
+          <option value="contactus.contactus.urls.views" />
+          <option value="register.register.urls.signup" />
+          <option value="register.signup.views.signup" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
